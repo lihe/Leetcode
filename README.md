@@ -1,5 +1,3 @@
-# Myblog
-
 # Leetcode
 
 num|problem|level|time
