@@ -1,5 +1,4 @@
 # Myblog
-主要用来记录学习过程体会和感想。
 
 Leetcode
 
