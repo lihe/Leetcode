@@ -1,7 +1,7 @@
 # Leetcode
 ### Record the process of Leetcode
 
-num|problem|level|time
+num|problem|level|date
 -|-|-|-
 409|[Longest Palindrome](https://github.com/lihe/Leetcode/issues/1) |Easy|10/25/2019
 290|[Word Pattern](https://github.com/lihe/Leetcode/issues/2)|Easy|10/25/2019
