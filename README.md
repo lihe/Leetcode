@@ -12,3 +12,4 @@ Num|Problem|Level|Topics|Date
 1237|[Find Positive Integer Solution for a Given Equation](https://github.com/lihe/Leetcode/issues/7)|Easy|`Math` `Binary Search`|10/30/2019
 113|[Path Sum II](https://github.com/lihe/Leetcode/issues/8)|Medium|`Tree` `Depth-first Search`|10/30/2019
 236|[Lowest Common Ancestor of a Binary Tree](https://github.com/lihe/Leetcode/issues/9)|Medium|`Tree`|10/30/2019
+114|[Flatten Binary Tree to Linked List](https://github.com/lihe/Leetcode/issues/10)|Medium|`Tree` `Depth-first Search`|10/31/2019
