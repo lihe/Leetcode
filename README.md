@@ -1,5 +1,5 @@
 # Leetcode
-### Record the process of Leetcode
+### Record the process of Leetcode by issue
 
 Num|Problem|Level|Topics|Date
 -|-|-|-|-
