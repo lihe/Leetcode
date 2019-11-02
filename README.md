@@ -15,3 +15,4 @@ Num|Problem|Level|Topics|Date
 114|[Flatten Binary Tree to Linked List](https://github.com/lihe/Leetcode/issues/10)|Medium|`Tree` `Depth-first Search`|10/31/2019
 199|[Binary Tree Right Side View](https://github.com/lihe/Leetcode/issues/11)|Medium|`Tree` `Depth-first Search` `Breadth-first Search`|11/1/2019
 207|[Course Schedule](https://github.com/lihe/Leetcode/issues/12)|Medium|`Depth-first Search` `Breadth-first Search` `Graph` `Topological Sort`|11/2/2019
+70|[Climbing Stairs](https://github.com/lihe/Leetcode/issues/13)|Easy|`Dynamic Programming`|11/2/2019
