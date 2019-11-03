@@ -16,3 +16,4 @@ Num|Problem|Level|Topics|Date
 199|[Binary Tree Right Side View](https://github.com/lihe/Leetcode/issues/11)|Medium|`Tree` `Depth-first Search` `Breadth-first Search`|11/1/2019
 207|[Course Schedule](https://github.com/lihe/Leetcode/issues/12)|Medium|`Depth-first Search` `Breadth-first Search` `Graph` `Topological Sort`|11/2/2019
 70|[Climbing Stairs](https://github.com/lihe/Leetcode/issues/13)|Easy|`Dynamic Programming`|11/2/2019
+198|[House Robber](https://github.com/lihe/Leetcode/issues/14)|Easy|`Dynamic Programming`|11/3/2019
