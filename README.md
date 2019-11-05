@@ -18,3 +18,4 @@ Num|Problem|Level|Topics|Date
 70|[Climbing Stairs](https://github.com/lihe/Leetcode/issues/13)|Easy|`Dynamic Programming`|11/2/2019
 198|[House Robber](https://github.com/lihe/Leetcode/issues/14)|Easy|`Dynamic Programming`|11/3/2019
 53|[Maximum Subarray](https://github.com/lihe/Leetcode/issues/15)|Easy|`Array` `Divide and Conquer` `Dynamic Programming`|11/4/2019
+322|[Coin Change](https://github.com/lihe/Leetcode/issues/16)|Medium|`Dynamic Programming`|11/5/2019
