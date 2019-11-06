@@ -19,3 +19,4 @@ Num|Problem|Level|Topics|Date
 198|[House Robber](https://github.com/lihe/Leetcode/issues/14)|Easy|`Dynamic Programming`|11/3/2019
 53|[Maximum Subarray](https://github.com/lihe/Leetcode/issues/15)|Easy|`Array` `Divide and Conquer` `Dynamic Programming`|11/4/2019
 322|[Coin Change](https://github.com/lihe/Leetcode/issues/16)|Medium|`Dynamic Programming`|11/5/2019
+120|[Triangle](https://github.com/lihe/Leetcode/issues/17)|Medium|`Array` `Dynamic Programming`|11/6/2019
