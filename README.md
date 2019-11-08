@@ -20,3 +20,4 @@ Num|Problem|Level|Topics|Date
 53|[Maximum Subarray](https://github.com/lihe/Leetcode/issues/15)|Easy|`Array` `Divide and Conquer` `Dynamic Programming`|11/4/2019
 322|[Coin Change](https://github.com/lihe/Leetcode/issues/16)|Medium|`Dynamic Programming`|11/5/2019
 120|[Triangle](https://github.com/lihe/Leetcode/issues/17)|Medium|`Array` `Dynamic Programming`|11/6/2019
+300|[Longest Increasing Subsequence](https://github.com/lihe/Leetcode/issues/18)|Hard|`Binary Search` `Dynamic Programming`|11/8/2019
