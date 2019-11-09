@@ -21,3 +21,4 @@ Num|Problem|Level|Topics|Date
 322|[Coin Change](https://github.com/lihe/Leetcode/issues/16)|Medium|`Dynamic Programming`|11/5/2019
 120|[Triangle](https://github.com/lihe/Leetcode/issues/17)|Medium|`Array` `Dynamic Programming`|11/6/2019
 300|[Longest Increasing Subsequence](https://github.com/lihe/Leetcode/issues/18)|Hard|`Binary Search` `Dynamic Programming`|11/8/2019
+64|[Minimum Path Sum](https://github.com/lihe/Leetcode/issues/19)|Medium|`Array` `Dynamic Programming`|11/9/2019
