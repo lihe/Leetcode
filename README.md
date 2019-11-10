@@ -1,6 +1,11 @@
 # Leetcode
 ### Record the process of Leetcode by issue
 
+Weekly Contest|Date
+-|-
+[Weekly_Contest_162](https://github.com/lihe/Leetcode/issues/20)|11/10/2019
+
+
 Num|Problem|Level|Topics|Date
 -|-|-|-|-
 409|[Longest Palindrome](https://github.com/lihe/Leetcode/issues/1) |Easy|`Hash Table`|10/25/2019
