@@ -3,7 +3,7 @@
 
 Weekly Contest|Date
 -|-
-[Weekly_Contest_162](https://github.com/lihe/Leetcode/issues/20)|11/10/2019
+[Weekly Contest 162](https://github.com/lihe/Leetcode/issues/20)|11/10/2019
 
 
 Num|Problem|Level|Topics|Date
@@ -27,3 +27,4 @@ Num|Problem|Level|Topics|Date
 120|[Triangle](https://github.com/lihe/Leetcode/issues/17)|Medium|`Array` `Dynamic Programming`|11/6/2019
 300|[Longest Increasing Subsequence](https://github.com/lihe/Leetcode/issues/18)|Hard|`Binary Search` `Dynamic Programming`|11/8/2019
 64|[Minimum Path Sum](https://github.com/lihe/Leetcode/issues/19)|Medium|`Array` `Dynamic Programming`|11/9/2019
+174|[Dungeon Game](https://github.com/lihe/Leetcode/issues/21)|Hard|`Dynamic Programming` `Binary Search`|11/12/2019
