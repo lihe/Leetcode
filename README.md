@@ -28,3 +28,4 @@ Num|Problem|Level|Topics|Date
 300|[Longest Increasing Subsequence](https://github.com/lihe/Leetcode/issues/18)|Hard|`Binary Search` `Dynamic Programming`|11/8/2019
 64|[Minimum Path Sum](https://github.com/lihe/Leetcode/issues/19)|Medium|`Array` `Dynamic Programming`|11/9/2019
 174|[Dungeon Game](https://github.com/lihe/Leetcode/issues/21)|Hard|`Dynamic Programming` `Binary Search`|11/12/2019
+200|[Number of Islands](https://github.com/lihe/Leetcode/issues/22)|Medium|`Depth-first Search` `Breadth-first Search` `Union Find`|11/13/2019
