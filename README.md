@@ -29,3 +29,4 @@ Num|Problem|Level|Topics|Date
 64|[Minimum Path Sum](https://github.com/lihe/Leetcode/issues/19)|Medium|`Array` `Dynamic Programming`|11/9/2019
 174|[Dungeon Game](https://github.com/lihe/Leetcode/issues/21)|Hard|`Dynamic Programming` `Binary Search`|11/12/2019
 200|[Number of Islands](https://github.com/lihe/Leetcode/issues/22)|Medium|`Depth-first Search` `Breadth-first Search` `Union Find`|11/13/2019
+1254|[Number of Closed Islands](https://github.com/lihe/Leetcode/issues/23)|Medium|`Depth-first Search`|11/14/2019
