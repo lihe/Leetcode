@@ -30,3 +30,4 @@ Num|Problem|Level|Topics|Date
 174|[Dungeon Game](https://github.com/lihe/Leetcode/issues/21)|Hard|`Dynamic Programming` `Binary Search`|11/12/2019
 200|[Number of Islands](https://github.com/lihe/Leetcode/issues/22)|Medium|`Depth-first Search` `Breadth-first Search` `Union Find`|11/13/2019
 1254|[Number of Closed Islands](https://github.com/lihe/Leetcode/issues/23)|Medium|`Depth-first Search`|11/14/2019
+127|[Word Ladder](https://github.com/lihe/Leetcode/issues/24)|Medium|`Breadth-first Search`|11/15/2019
