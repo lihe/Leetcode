@@ -4,7 +4,7 @@
 Weekly Contest|Date
 -|-
 [Weekly Contest 162](https://github.com/lihe/Leetcode/issues/20)|11/10/2019
-
+[BiWeekly Contest 13](https://github.com/lihe/Leetcode/issues/25)|11/16/2019
 
 Num|Problem|Level|Topics|Date
 -|-|-|-|-
