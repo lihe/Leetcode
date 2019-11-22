@@ -33,3 +33,4 @@ Num|Problem|Level|Topics|Date
 1254|[Number of Closed Islands](https://github.com/lihe/Leetcode/issues/23)|Medium|`Depth-first Search`|11/14/2019
 127|[Word Ladder](https://github.com/lihe/Leetcode/issues/24)|Medium|`Breadth-first Search`|11/15/2019
 1255|[Maximum Score Words Formed by Letters](https://github.com/lihe/Leetcode/issues/26)|Hard|`Bit Manipulation`|11/18/2019
+1256|[Encode Number](https://github.com/lihe/Leetcode/issues/28)|Medium|`Bit Manipulation`|11/22/2019
