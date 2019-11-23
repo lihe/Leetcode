@@ -34,3 +34,4 @@ Num|Problem|Level|Topics|Date
 127|[Word Ladder](https://github.com/lihe/Leetcode/issues/24)|Medium|`Breadth-first Search`|11/15/2019
 1255|[Maximum Score Words Formed by Letters](https://github.com/lihe/Leetcode/issues/26)|Hard|`Bit Manipulation`|11/18/2019
 1256|[Encode Number](https://github.com/lihe/Leetcode/issues/29)|Medium|`Bit Manipulation`|11/22/2019
+1260|[Shift 2D Grid](https://github.com/lihe/Leetcode/issues/30)|Easy|`Array`|11/23/2019
