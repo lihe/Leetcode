@@ -36,3 +36,4 @@ Num|Problem|Level|Topics|Date
 1256|[Encode Number](https://github.com/lihe/Leetcode/issues/29)|Medium|`Bit Manipulation`|11/22/2019
 1260|[Shift 2D Grid](https://github.com/lihe/Leetcode/issues/30)|Easy|`Array`|11/23/2019
 1275|[Find Winner on a Tic Tac Toe Game](https://github.com/lihe/Leetcode/issues/31)|Easy|`Array`|12/5/2019
+126|[Word Ladder II](https://github.com/lihe/Leetcode/issues/32)|Hard|`Array` `Breadth-first Search` `String` `Backtracking`|12/5/2019
