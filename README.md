@@ -35,3 +35,4 @@ Num|Problem|Level|Topics|Date
 1255|[Maximum Score Words Formed by Letters](https://github.com/lihe/Leetcode/issues/26)|Hard|`Bit Manipulation`|11/18/2019
 1256|[Encode Number](https://github.com/lihe/Leetcode/issues/29)|Medium|`Bit Manipulation`|11/22/2019
 1260|[Shift 2D Grid](https://github.com/lihe/Leetcode/issues/30)|Easy|`Array`|11/23/2019
+1275|[Find Winner on a Tic Tac Toe Game](https://github.com/lihe/Leetcode/issues/31)|Easy|`Array`|12/5/2019
