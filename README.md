@@ -41,3 +41,4 @@ Num|Problem|Level|Topics|Date
 1276|[Number of Burgers with No Waste of Ingredients](https://github.com/lihe/Leetcode/issues/33)|Medium|`Math` `Greedy`|12/6/2019
 473|[Matchsticks to Square](https://github.com/lihe/Leetcode/issues/34)|Medium|`Depth-first Search`|12/7/2019
 5281|[Find the Smallest Divisor Given a Threshold](https://github.com/lihe/Leetcode/issues/36)|Medium|`Binary Search`|12/8/2019
+5280|[Group the People Given the Group Size They Belong To](https://github.com/lihe/Leetcode/issues/37)|Medium|`Greedy`|12/8/2019
