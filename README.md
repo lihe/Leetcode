@@ -40,3 +40,4 @@ Num|Problem|Level|Topics|Date
 126|[Word Ladder II](https://github.com/lihe/Leetcode/issues/32)|Hard|`Array` `Breadth-first Search` `String` `Backtracking`|12/5/2019
 1276|[Number of Burgers with No Waste of Ingredients](https://github.com/lihe/Leetcode/issues/33)|Medium|`Math` `Greedy`|12/6/2019
 473|[Matchsticks to Square](https://github.com/lihe/Leetcode/issues/34)|Medium|`Depth-first Search`|12/7/2019
+1283|[Find the Smallest Divisor Given a Threshold](https://github.com/lihe/Leetcode/issues/36)|Medium|`Binary Search`|12/8/2019
