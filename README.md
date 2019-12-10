@@ -44,3 +44,4 @@ Num|Problem|Level|Topics|Date
 5280|[Group the People Given the Group Size They Belong To](https://github.com/lihe/Leetcode/issues/37)|Medium|`Greedy`|12/8/2019
 1277|[Count Square Submatrices with All Ones](https://github.com/lihe/Leetcode/issues/38)|Medium|`Dynamic Programming` `Array`|12/8/2019
 1266|[Minimum Time Visiting All Points](https://github.com/lihe/Leetcode/issues/39)|Easy|`Array` `Geometry`|12/10/2019
+1267|[Count Servers that Communicate](https://github.com/lihe/Leetcode/issues/40)|Medium|`Array` `Graph`|12/19/2019
