@@ -43,3 +43,4 @@ Num|Problem|Level|Topics|Date
 5281|[Find the Smallest Divisor Given a Threshold](https://github.com/lihe/Leetcode/issues/36)|Medium|`Binary Search`|12/8/2019
 5280|[Group the People Given the Group Size They Belong To](https://github.com/lihe/Leetcode/issues/37)|Medium|`Greedy`|12/8/2019
 1277|[Count Square Submatrices with All Ones](https://github.com/lihe/Leetcode/issues/38)|Medium|`Dynamic Programming` `Array`|12/8/2019
+1266|[Minimum Time Visiting All Points](https://github.com/lihe/Leetcode/issues/39)|Easy|`Array` `Geometry`|12/10/2019
