@@ -46,3 +46,4 @@ Num|Problem|Level|Topics|Date
 1266|[Minimum Time Visiting All Points](https://github.com/lihe/Leetcode/issues/39)|Easy|`Array` `Geometry`|12/10/2019
 1267|[Count Servers that Communicate](https://github.com/lihe/Leetcode/issues/40)|Medium|`Array` `Graph`|12/10/2019
 551|[Student Attendance Record I](https://github.com/lihe/Leetcode/issues/41)|Easy|`String`|12/11/2019
+1268|[Search Suggestions System](https://github.com/lihe/Leetcode/issues/42)|Medium|`String`|12/11/2019
