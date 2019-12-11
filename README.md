@@ -45,3 +45,4 @@ Num|Problem|Level|Topics|Date
 1277|[Count Square Submatrices with All Ones](https://github.com/lihe/Leetcode/issues/38)|Medium|`Dynamic Programming` `Array`|12/8/2019
 1266|[Minimum Time Visiting All Points](https://github.com/lihe/Leetcode/issues/39)|Easy|`Array` `Geometry`|12/10/2019
 1267|[Count Servers that Communicate](https://github.com/lihe/Leetcode/issues/40)|Medium|`Array` `Graph`|12/10/2019
+551|[Student Attendance Record I](https://github.com/lihe/Leetcode/issues/41)|Easy|`String`|12/11/2019
