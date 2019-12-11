@@ -47,3 +47,4 @@ Num|Problem|Level|Topics|Date
 1267|[Count Servers that Communicate](https://github.com/lihe/Leetcode/issues/40)|Medium|`Array` `Graph`|12/10/2019
 551|[Student Attendance Record I](https://github.com/lihe/Leetcode/issues/41)|Easy|`String`|12/11/2019
 1268|[Search Suggestions System](https://github.com/lihe/Leetcode/issues/42)|Medium|`String`|12/11/2019
+1269|[Number of Ways to Stay in the Same Place After Some Steps](https://github.com/lihe/Leetcode/issues/43)|Hard|`Dynamic Programming`|12/11/2019
