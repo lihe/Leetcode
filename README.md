@@ -48,3 +48,4 @@ Num|Problem|Level|Topics|Date
 551|[Student Attendance Record I](https://github.com/lihe/Leetcode/issues/41)|Easy|`String`|12/11/2019
 1268|[Search Suggestions System](https://github.com/lihe/Leetcode/issues/42)|Medium|`String`|12/11/2019
 1269|[Number of Ways to Stay in the Same Place After Some Steps](https://github.com/lihe/Leetcode/issues/43)|Hard|`Dynamic Programming`|12/11/2019
+5126|[Element Appearing More Than 25% In Sorted Array](https://github.com/lihe/Leetcode/issues/44)|Easy|`Array`|12/15/2019
