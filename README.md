@@ -50,3 +50,4 @@ Num|Problem|Level|Topics|Date
 1269|[Number of Ways to Stay in the Same Place After Some Steps](https://github.com/lihe/Leetcode/issues/43)|Hard|`Dynamic Programming`|12/11/2019
 5126|[Element Appearing More Than 25% In Sorted Array](https://github.com/lihe/Leetcode/issues/44)|Easy|`Array`|12/15/2019
 5127|[Remove Covered Intervals](https://github.com/lihe/Leetcode/issues/45)|Medium|`Line Sweep`|12/15/2019
+5124|[Sequential Digits](https://github.com/lihe/Leetcode/issues/46)|Medium|`Backtracking`|12/15/2019
