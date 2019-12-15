@@ -52,3 +52,4 @@ Num|Problem|Level|Topics|Date
 5126|[Element Appearing More Than 25% In Sorted Array](https://github.com/lihe/Leetcode/issues/44)|Easy|`Array`|12/15/2019
 5127|[Remove Covered Intervals](https://github.com/lihe/Leetcode/issues/45)|Medium|`Line Sweep`|12/15/2019
 5124|[Sequential Digits](https://github.com/lihe/Leetcode/issues/46)|Medium|`Backtracking`|12/15/2019
+5285|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://github.com/lihe/Leetcode/issues/48)|Medium|`Array` `Binary Search`|12/15/2019
