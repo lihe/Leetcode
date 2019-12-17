@@ -41,15 +41,16 @@ Num|Problem|Level|Topics|Date
 126|[Word Ladder II](https://github.com/lihe/Leetcode/issues/32)|Hard|`Array` `Breadth-first Search` `String` `Backtracking`|12/5/2019
 1276|[Number of Burgers with No Waste of Ingredients](https://github.com/lihe/Leetcode/issues/33)|Medium|`Math` `Greedy`|12/6/2019
 473|[Matchsticks to Square](https://github.com/lihe/Leetcode/issues/34)|Medium|`Depth-first Search`|12/7/2019
-5281|[Find the Smallest Divisor Given a Threshold](https://github.com/lihe/Leetcode/issues/36)|Medium|`Binary Search`|12/8/2019
-5280|[Group the People Given the Group Size They Belong To](https://github.com/lihe/Leetcode/issues/37)|Medium|`Greedy`|12/8/2019
+1283|[Find the Smallest Divisor Given a Threshold](https://github.com/lihe/Leetcode/issues/36)|Medium|`Binary Search`|12/8/2019
+1282|[Group the People Given the Group Size They Belong To](https://github.com/lihe/Leetcode/issues/37)|Medium|`Greedy`|12/8/2019
 1277|[Count Square Submatrices with All Ones](https://github.com/lihe/Leetcode/issues/38)|Medium|`Dynamic Programming` `Array`|12/8/2019
 1266|[Minimum Time Visiting All Points](https://github.com/lihe/Leetcode/issues/39)|Easy|`Array` `Geometry`|12/10/2019
 1267|[Count Servers that Communicate](https://github.com/lihe/Leetcode/issues/40)|Medium|`Array` `Graph`|12/10/2019
 551|[Student Attendance Record I](https://github.com/lihe/Leetcode/issues/41)|Easy|`String`|12/11/2019
 1268|[Search Suggestions System](https://github.com/lihe/Leetcode/issues/42)|Medium|`String`|12/11/2019
 1269|[Number of Ways to Stay in the Same Place After Some Steps](https://github.com/lihe/Leetcode/issues/43)|Hard|`Dynamic Programming`|12/11/2019
-5126|[Element Appearing More Than 25% In Sorted Array](https://github.com/lihe/Leetcode/issues/44)|Easy|`Array`|12/15/2019
-5127|[Remove Covered Intervals](https://github.com/lihe/Leetcode/issues/45)|Medium|`Line Sweep`|12/15/2019
-5124|[Sequential Digits](https://github.com/lihe/Leetcode/issues/46)|Medium|`Backtracking`|12/15/2019
-5285|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://github.com/lihe/Leetcode/issues/48)|Medium|`Array` `Binary Search`|12/15/2019
+1287|[Element Appearing More Than 25% In Sorted Array](https://github.com/lihe/Leetcode/issues/44)|Easy|`Array`|12/15/2019
+1288|[Remove Covered Intervals](https://github.com/lihe/Leetcode/issues/45)|Medium|`Line Sweep`|12/15/2019
+1291|[Sequential Digits](https://github.com/lihe/Leetcode/issues/46)|Medium|`Backtracking`|12/15/2019
+1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://github.com/lihe/Leetcode/issues/48)|Medium|`Array` `Binary Search`|12/15/2019
+1293|[Shortest Path in a Grid with Obstacles Elimination](https://github.com/lihe/Leetcode/issues/49)|Hard|`Breadth-first Search`|12/17/2019
