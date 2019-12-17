@@ -54,3 +54,4 @@ Num|Problem|Level|Topics|Date
 1291|[Sequential Digits](https://github.com/lihe/Leetcode/issues/46)|Medium|`Backtracking`|12/15/2019
 1292|[Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://github.com/lihe/Leetcode/issues/48)|Medium|`Array` `Binary Search`|12/15/2019
 1293|[Shortest Path in a Grid with Obstacles Elimination](https://github.com/lihe/Leetcode/issues/49)|Hard|`Breadth-first Search`|12/17/2019
+1286|[Iterator for Combination](https://github.com/lihe/Leetcode/issues/50)|Medium|`Design` `Backtracking`|12/17/2019
