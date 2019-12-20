@@ -56,3 +56,4 @@ Num|Problem|Level|Topics|Date
 1293|[Shortest Path in a Grid with Obstacles Elimination](https://github.com/lihe/Leetcode/issues/49)|Hard|`Breadth-first Search`|12/17/2019
 1286|[Iterator for Combination](https://github.com/lihe/Leetcode/issues/50)|Medium|`Design` `Backtracking`|12/17/2019
 1247|[Minimum Swaps to Make Strings Equal](https://github.com/lihe/Leetcode/issues/51)|Medium|`String` `Greedy`|12/19/2019
+1249|[Minimum Remove to Make Valid Parentheses](https://github.com/lihe/Leetcode/issues/52)|Medium|`String` `Stack`|12/20/2019
