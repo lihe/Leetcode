@@ -58,3 +58,4 @@ Num|Problem|Level|Topics|Date
 1247|[Minimum Swaps to Make Strings Equal](https://github.com/lihe/Leetcode/issues/51)|Medium|`String` `Greedy`|12/19/2019
 1249|[Minimum Remove to Make Valid Parentheses](https://github.com/lihe/Leetcode/issues/52)|Medium|`String` `Stack`|12/20/2019
 1250|[Check If It Is a Good Array](https://github.com/lihe/Leetcode/issues/53)|Hard|`Math`|12/20/2019
+785|[Is Graph Bipartite?](https://github.com/lihe/Leetcode/issues/54)|Medium|`Breadth-first Search` `Depth-first Search` `Graph`|12/21/2019
