@@ -62,3 +62,4 @@ Num|Problem|Level|Topics|Date
 143|[Reorder List](https://github.com/lihe/Leetcode/issues/55)|Medium|`Linked List`|12/21/2019
 876|[Middle of the Linked List](https://github.com/lihe/Leetcode/issues/56)|Easy|`Linked List`|12/21/2019
 206|[Reverse Linked List](https://github.com/lihe/Leetcode/issues/57)|Easy|`Linked List`|12/21/2019
+929|[Unique Email Addresses](https://github.com/lihe/Leetcode/issues/58)|Easy|`String`|12/21/2019
