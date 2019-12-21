@@ -60,3 +60,4 @@ Num|Problem|Level|Topics|Date
 1250|[Check If It Is a Good Array](https://github.com/lihe/Leetcode/issues/53)|Hard|`Math`|12/20/2019
 785|[Is Graph Bipartite?](https://github.com/lihe/Leetcode/issues/54)|Medium|`Breadth-first Search` `Depth-first Search` `Graph`|12/21/2019
 143|[Reorder List](https://github.com/lihe/Leetcode/issues/55)|Medium|`Linked List`|12/21/2019
+876|[Middle of the Linked List](https://github.com/lihe/Leetcode/issues/56)|Easy|`Linked List`|12/21/2019
