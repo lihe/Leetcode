@@ -63,3 +63,4 @@ Num|Problem|Level|Topics|Date
 876|[Middle of the Linked List](https://github.com/lihe/Leetcode/issues/56)|Easy|`Linked List`|12/21/2019
 206|[Reverse Linked List](https://github.com/lihe/Leetcode/issues/57)|Easy|`Linked List`|12/21/2019
 929|[Unique Email Addresses](https://github.com/lihe/Leetcode/issues/58)|Easy|`String`|12/21/2019
+824|[Goat Latin](https://github.com/lihe/Leetcode/issues/59)|Easy|`String`|12/22/2019
