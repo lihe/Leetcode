@@ -64,3 +64,4 @@ Num|Problem|Level|Topics|Date
 206|[Reverse Linked List](https://github.com/lihe/Leetcode/issues/57)|Easy|`Linked List`|12/21/2019
 929|[Unique Email Addresses](https://github.com/lihe/Leetcode/issues/58)|Easy|`String`|12/21/2019
 824|[Goat Latin](https://github.com/lihe/Leetcode/issues/59)|Easy|`String`|12/22/2019
+970|[Powerful Integers](https://github.com/lihe/Leetcode/issues/60)|Easy|`Math` `Hash Table`|12/22/2019
