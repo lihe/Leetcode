@@ -67,3 +67,4 @@ Num|Problem|Level|Topics|Date
 824|[Goat Latin](https://github.com/lihe/Leetcode/issues/59)|Easy|`String`|12/22/2019
 970|[Powerful Integers](https://github.com/lihe/Leetcode/issues/60)|Easy|`Math` `Hash Table`|12/22/2019
 104|[Maximum Depth of Binary Tree](https://github.com/lihe/Leetcode/issues/62)|Easy|`Tree` `Depth-first Search`|12/22/2019
+110|[Balanced Binary Tree](https://github.com/lihe/Leetcode/issues/63)|Easy|`Tree` `Depth-first Search`|12/22/2019
