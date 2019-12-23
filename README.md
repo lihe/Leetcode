@@ -68,3 +68,4 @@ Num|Problem|Level|Topics|Date
 970|[Powerful Integers](https://github.com/lihe/Leetcode/issues/60)|Easy|`Math` `Hash Table`|12/22/2019
 104|[Maximum Depth of Binary Tree](https://github.com/lihe/Leetcode/issues/62)|Easy|`Tree` `Depth-first Search`|12/22/2019
 110|[Balanced Binary Tree](https://github.com/lihe/Leetcode/issues/63)|Easy|`Tree` `Depth-first Search`|12/22/2019
+1295|[Find Numbers with Even Number of Digits](https://github.com/lihe/Leetcode/issues/64)|Easy|`Array`|12/23/2019
