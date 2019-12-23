@@ -69,3 +69,4 @@ Num|Problem|Level|Topics|Date
 104|[Maximum Depth of Binary Tree](https://github.com/lihe/Leetcode/issues/62)|Easy|`Tree` `Depth-first Search`|12/22/2019
 110|[Balanced Binary Tree](https://github.com/lihe/Leetcode/issues/63)|Easy|`Tree` `Depth-first Search`|12/22/2019
 1295|[Find Numbers with Even Number of Digits](https://github.com/lihe/Leetcode/issues/64)|Easy|`Array`|12/23/2019
+1296|[Divide Array in Sets of K Consecutive Numbers](https://github.com/lihe/Leetcode/issues/65)|Medium|`Greedy` `Array`|12/23/2019
