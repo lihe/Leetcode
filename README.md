@@ -71,3 +71,4 @@ Num|Problem|Level|Topics|Date
 1295|[Find Numbers with Even Number of Digits](https://github.com/lihe/Leetcode/issues/64)|Easy|`Array`|12/23/2019
 1296|[Divide Array in Sets of K Consecutive Numbers](https://github.com/lihe/Leetcode/issues/65)|Medium|`Greedy` `Array`|12/23/2019
 1297|[Maximum Number of Occurrences of a Substring](https://github.com/lihe/Leetcode/issues/66)|Medium|`Bit Manipulation` `String`|12/23/2019
+1304|[Find N Unique Integers Sum up to Zero](https://github.com/lihe/Leetcode/issues/67)|Easy|`Array`|1/20/2020
