@@ -74,4 +74,4 @@ Num|Problem|Level|Topics|Date
 1304|[Find N Unique Integers Sum up to Zero](https://github.com/lihe/Leetcode/issues/67)|Easy|`Array`|1/10/2020
 1305|[All Elements in Two Binary Search Trees](https://github.com/lihe/Leetcode/issues/68)|Medium|`Sort` `Tree`|1/10/2020
 1306|[Jump Game III](https://github.com/lihe/Leetcode/issues/69)|Medium|`Breadth-first Search` `Graph`|1/10/2020
-2|[Add Two Numbers](https://github.com/lihe/Leetcode/issues/70)|Medium|`Linked List` `Math`|7/21/2010
+2|[Add Two Numbers](https://github.com/lihe/Leetcode/issues/70)|Medium|`Linked List` `Math`|7/21/2020
